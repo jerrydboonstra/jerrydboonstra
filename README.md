@@ -1,4 +1,4 @@
-I'm a forward deployed engineer and former CTO. I build AI agents and LLM infrastructure, and the tools that check they do what they claim.
+I'm an applied AI engineer and former CTO. I build AI agents and LLM infrastructure, and the tools that check they do what they claim. I'm looking for Forward Deployed Engineer roles.
 
 **Start here:** [neckbeard](https://github.com/jerrydboonstra/neckbeard) reads a Claude Code plugin, skill pack or rule file before you install it, and tests its own claims hard. It's public and MIT-licensed. The [case study](https://jerryboonstra.com/work/neckbeard/) has the details.
 
